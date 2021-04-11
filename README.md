@@ -10,6 +10,7 @@ First, we needed to replace the ninth grade scores with a NaN. The code that was
 ![grade_output](https://user-images.githubusercontent.com/80054925/114320100-f8f02300-9ad9-11eb-9c18-a59a985d8908.png)
 
 From here, the analysis was redone, and the results show that the score replacements did not change very much. 
+  
   --Total Students--
      
      The total amount of students remained unchanged. We only changed the scores for the students and didn't remove them from the analysis. 
