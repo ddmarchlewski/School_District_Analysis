@@ -1,4 +1,5 @@
 # School_District_Analysis
+Analyze data of school districts using Panda libraries and Python to show the performance of schools based on certain key metrics. 
 
 ## Challenge Overview 
 Some students from Thomas High School were caught for academic dishonesty in the subjects math and reading. We are asked to redo the analysis and to replace the scores for those students with a NaN without removing them from the analysis. 
